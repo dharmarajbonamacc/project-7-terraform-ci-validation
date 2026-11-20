@@ -1,6 +1,6 @@
 # Project 7: Terraform CI Validation
 
-![Terraform CI Validation](https://github.com/dharmarajabomanacc/project-7-terraform-ci-validation/actions/workflows/terraform.yml/badge.svg)
+![Terraform CI Validation](https://github.com/dharmarajabomanacc/project-7-terraform-ci-validation/actions/workflows/terraform.yml/badge.svg?branch=main)
 
 ## Description
 Automated Terraform formatting and validation using GitHub Actions.
